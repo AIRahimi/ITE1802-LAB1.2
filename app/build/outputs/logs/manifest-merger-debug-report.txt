@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ed610fbca8ca086387894a25635bc424/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/automile/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33694f5d6b5ca0e9ef9375d7eefd625d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6714bba2314b6867103c0f50e0f0a3c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7a7048c5655bab55f4205ea2d0616546/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f0aae26f964ab8f00a8b8360501731ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b62f88cf8967ba0218c973674f7e262e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8f7f456ead0787b8720c52f30e520090/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d610fc3efce369bffc4cd2d21134d998/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/083ba01ec3dc1aa8af9255873ccffe95/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e208972ed3e26ae70b0586a2dfe1682a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/14d9dffb9fc52e22b636bd5052cbe202/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/38cd5a8fc0a2dc920419793fae26a135/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f2be21fe6e073b3379e02752b03e6852/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3ee7b88c04975905e35c10cce1bd4f16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/09939e7d71c113e768eb50e8dfc4d319/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a0618778390be76f3a791131a9e1893c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/763c54c07d981ab75be6cc9dc544e737/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9945c6debfdc88a86c0183a09f3f9b5a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e72411a8071c539263934d5e660e059a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4ef23245d8b8daa31f883fbd1894946b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/89bd213f110e17325ca833622df88c7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cc50fe1ec27b26dc5e80701998910d13/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b22519f906decd8aa459be4b1128e7d2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ebf72f3e3de7517acb9bd1f728e6f872/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/08adaa3abb7019e738633924777007d2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8a540f7239f11d8131b46edfcbea51ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4b8a5caeedd3169743534ecfcb0cac47/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/automile/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33694f5d6b5ca0e9ef9375d7eefd625d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/automile/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33694f5d6b5ca0e9ef9375d7eefd625d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a0618778390be76f3a791131a9e1893c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a0618778390be76f3a791131a9e1893c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/763c54c07d981ab75be6cc9dc544e737/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/763c54c07d981ab75be6cc9dc544e737/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a0618778390be76f3a791131a9e1893c/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:11:9-40
+activity#no.airahimi.mydaycalculator.MainActivity
+ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ed610fbca8ca086387894a25635bc424/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ed610fbca8ca086387894a25635bc424/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/automile/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33694f5d6b5ca0e9ef9375d7eefd625d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/automile/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/33694f5d6b5ca0e9ef9375d7eefd625d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6714bba2314b6867103c0f50e0f0a3c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6714bba2314b6867103c0f50e0f0a3c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7a7048c5655bab55f4205ea2d0616546/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/7a7048c5655bab55f4205ea2d0616546/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f0aae26f964ab8f00a8b8360501731ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/f0aae26f964ab8f00a8b8360501731ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b62f88cf8967ba0218c973674f7e262e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/b62f88cf8967ba0218c973674f7e262e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8f7f456ead0787b8720c52f30e520090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8f7f456ead0787b8720c52f30e520090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d610fc3efce369bffc4cd2d21134d998/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d610fc3efce369bffc4cd2d21134d998/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/083ba01ec3dc1aa8af9255873ccffe95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/083ba01ec3dc1aa8af9255873ccffe95/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e208972ed3e26ae70b0586a2dfe1682a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e208972ed3e26ae70b0586a2dfe1682a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/14d9dffb9fc52e22b636bd5052cbe202/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/14d9dffb9fc52e22b636bd5052cbe202/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/38cd5a8fc0a2dc920419793fae26a135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/38cd5a8fc0a2dc920419793fae26a135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f2be21fe6e073b3379e02752b03e6852/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f2be21fe6e073b3379e02752b03e6852/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3ee7b88c04975905e35c10cce1bd4f16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3ee7b88c04975905e35c10cce1bd4f16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/09939e7d71c113e768eb50e8dfc4d319/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/09939e7d71c113e768eb50e8dfc4d319/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a0618778390be76f3a791131a9e1893c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a0618778390be76f3a791131a9e1893c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/763c54c07d981ab75be6cc9dc544e737/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/763c54c07d981ab75be6cc9dc544e737/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9945c6debfdc88a86c0183a09f3f9b5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9945c6debfdc88a86c0183a09f3f9b5a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e72411a8071c539263934d5e660e059a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e72411a8071c539263934d5e660e059a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4ef23245d8b8daa31f883fbd1894946b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/4ef23245d8b8daa31f883fbd1894946b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/89bd213f110e17325ca833622df88c7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/89bd213f110e17325ca833622df88c7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cc50fe1ec27b26dc5e80701998910d13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/cc50fe1ec27b26dc5e80701998910d13/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b22519f906decd8aa459be4b1128e7d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b22519f906decd8aa459be4b1128e7d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ebf72f3e3de7517acb9bd1f728e6f872/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ebf72f3e3de7517acb9bd1f728e6f872/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/08adaa3abb7019e738633924777007d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/08adaa3abb7019e738633924777007d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8a540f7239f11d8131b46edfcbea51ac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/automile/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8a540f7239f11d8131b46edfcbea51ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4b8a5caeedd3169743534ecfcb0cac47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/automile/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4b8a5caeedd3169743534ecfcb0cac47/AndroidManifest.xml:20:5-44
+INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/automile/development/AndroidStudioProjects/MyDayCalculator/app/src/main/AndroidManifest.xml
