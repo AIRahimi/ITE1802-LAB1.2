@@ -35,20 +35,16 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:clickable="true"
-            android:cursorVisible="false"
-            android:focusable="false"
-            android:focusableInTouchMode="true"
-            android:ems="11"
+            android:ems="10"
             android:hint="@string/edit_dateformat"
-            android:onClick="setDate" />
+            android:inputType="date" />
 
         <Button
             android:id="@+id/btCalculate"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="1"
             android:onClick="calculate"
+            android:layout_weight="1"
             android:text="@string/button_calculate" />
     </LinearLayout>
 
